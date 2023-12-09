@@ -1,12 +1,12 @@
 # main links links
 main:
-    -title:"碎碎念"
+  - title: "碎碎念"
     url: /suisuinian/
 
-    -title:"定格记忆"
+  - title: "定格记忆"
     url: /photos/
 
-    -title:"无规律笔记"
+  - title: "无规律笔记"
     url: /somenotes/
     
   #- title: "Publications"
