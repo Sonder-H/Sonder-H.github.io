@@ -1,9 +1,15 @@
 # main links links
 main:
+  - title: "碎碎念"
+    url: /year-archive/
+
   #- title: "碎碎念"
   #  url: /suisuinian-archive/
 
-  - title: "记忆定格"
+  -title: "完成度"
+   url: /progress/
+
+  - title: "咔擦记忆"
     url: /photos/
 
   - title: "无规律笔记"
@@ -20,9 +26,6 @@ main:
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  - title: "碎碎念"
-    url: /year-archive/
     
   #- title: "CV"
   #  url: /cv/
