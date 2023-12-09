@@ -86,7 +86,7 @@ author:
   location         : "寻常未名小巷"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 平生最不喜科研 # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "平生最不喜科研" # "http://yourfullgooglescholarurl.com"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
