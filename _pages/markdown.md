@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "完成度"
+title: "散是满天星の完成度"
 author_profile: true
 redirect_from: 
   - /md/
