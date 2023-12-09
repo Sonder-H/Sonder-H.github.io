@@ -3,17 +3,14 @@ main:
   - title: "碎碎念"
     url: /year-archive/
 
-  #- title: "碎碎念"
-  #  url: /suisuinian-archive/
-
   - title: "完成度"
-    url: /progress/
+    url: /talks/
 
   - title: "咔擦记忆"
-    url: /photos/
+    url: /portfolio/
 
   - title: "无规律笔记"
-    url: /somenotes/
+    url: /teaching/
     
   #- title: "Publications"
   #  url: /publications/
@@ -27,8 +24,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
-  #- title: "Guide"
-  # url: /markdown/
+  - title: "Guide"
+   url: /markdown/
