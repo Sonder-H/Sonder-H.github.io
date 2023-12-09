@@ -7,22 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
+## 1. 还没搞懂的md和html Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -31,10 +17,36 @@ redirect_from:
   * Red X: error
   * No icon: not built
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## 2. 布局的例子是这样的 Unordered/ordered Lists (Nested)
+ * [链接的名字](https://shopify.github.io/liquid/tags/control-flow/)
+ * 这就是一个圆空心
+  * List item one 
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
 
-## Markdown guide
+
+  1. List item one 
+      1. List item one 
+          1. List item one
+          2. List item two
+          3. List item three
+          4. List item four
+      2. List item two
+      3. List item three
+      4. List item four
+  2. List item two
+  3. List item three
+  4. List item four
+
 
 ### Header three
 
@@ -46,11 +58,9 @@ redirect_from:
 
 ## Blockquotes
 
-Single line blockquote:
+> 斜体引用 Quotes are cool.
 
-> Quotes are cool.
-
-## Tables
+## 3. 表格Tables
 
 ### Table 1
 
@@ -72,7 +82,7 @@ Single line blockquote:
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
+## 4. 定义列举（虽然不知道有啥用）Definition Lists
 
 Definition List Title
 :   Definition list division.
@@ -86,35 +96,8 @@ Startup
 Do It Live
 :   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
 
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
 
 ## Buttons
 
