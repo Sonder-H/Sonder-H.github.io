@@ -1,6 +1,6 @@
 ---
 title: "testing 1"
-excerpt: "这是图片的标题一<br/><img src='/images/500x300.png'>"
+excerpt:  "这是图片的标题一"
 collection: portfolio
 ---
 
