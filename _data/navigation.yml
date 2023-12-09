@@ -3,29 +3,29 @@ main:
   - title: "碎碎念"
     url: /year-archive/
 
-  #- title: "完成度"
-  #  url: /talks/
+  - title: "完成度"
+    url: /progress/
 
-  #- title: "咔擦记忆"
-  #  url: /portfolio/
+  - title: "咔擦记忆"
+    url: /photos/
 
-  #- title: "无规律笔记"
-  #  url: /teaching/
+  - title: "无规律笔记"
+    url: /somenotes/
     
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  # url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-   url: /markdown/
+  #- title: "Guide"
+  # url: /markdown/
