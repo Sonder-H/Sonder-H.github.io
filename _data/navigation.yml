@@ -4,7 +4,7 @@ main:
     url: /year-archive/
 
   - title: "完成度"
-    url: /progress/
+    url: /markdown/
 
   - title: "咔擦记忆"
     url: /portfolio/
