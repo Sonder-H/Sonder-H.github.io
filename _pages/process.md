@@ -1,6 +1,6 @@
 ---
 permalink: /process/
-title: "散是满天星の完成度"
+title: "满天星的进度"
 author_profile: true
 redirect_from: 
   - /md/
